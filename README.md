@@ -1,2 +1,2 @@
-# bookmarklets
-Fun Bookmarklets I made for fun
+# Bookmarklets
+Fun Bookmarklets I just remixed for fun!
